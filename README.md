@@ -1,2 +1,2 @@
 # linux-utilities
-Linux utilities script
+Linux utilities scripts
